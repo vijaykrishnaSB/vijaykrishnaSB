@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaykrishnaSB
 - 👀 I’m interested in WEB & APP Development
-- 🌱 I’m currently learning Full Stack Develpoment
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Web & App Development
 - 📫 How to reach me vijaysb0022@gmail.com
 
