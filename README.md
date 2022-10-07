@@ -32,7 +32,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  </p>
-
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaykrishnasb&show_icons=true&theme=highcontrast" alt="vijaykrishnasb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykrishnasb&show_icons=true&theme=highcontrast" alt="vijaykrishnasb" /></p>
