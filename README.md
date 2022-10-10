@@ -1,6 +1,6 @@
 ![logo](https://64.media.tumblr.com/1e1ca1e770436c9549752d1e438e1eee/daac88501a2bea41-c1/s1280x1920/1bf1b7c9c64c6179652d3571fbdfadef56ef597f.gif)
 <h1 align="center">Hi 👋, I'm vijay krishna</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">MERN Stack Developer.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykrishnasb&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykrishnasb" /> </p>
