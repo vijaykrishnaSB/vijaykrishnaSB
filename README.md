@@ -25,4 +25,4 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaykrishnasb&show_icons=true&theme=highcontrast" alt="vijaykrishnasb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykrishnasb&show_icons=true&theme=highcontrast" alt="vijaykrishnasb" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykrishnasb&show_icons=true&theme=highcontrast" alt="vijaykrishnasb" /></p> -->
