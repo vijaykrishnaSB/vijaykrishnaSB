@@ -1,4 +1,5 @@
-![logo](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<!-- ![logo](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
+![logo](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)
 <h1 align="center">Hi 👋, I'm vijay krishna</h1>
 <h3 align="center">MERN Stack Developer.</h3>
 
