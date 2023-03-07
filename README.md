@@ -1,5 +1,5 @@
 <!-- ![logo](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
-![logo](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)
+![logo](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)
 <h1 align="center">Hi 👋, I'm vijay krishna</h1>
 <h3 align="center">MERN Stack Developer.</h3>
 
