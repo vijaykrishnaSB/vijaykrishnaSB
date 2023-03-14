@@ -6,7 +6,7 @@
 <h3 align="center">MERN Stack Developer.</h3>
 
 <!-- ![](https://komarev.com/ghpvc/?username=asabeneh&color=green) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykrishnasb&label=Profile%20views&color=b6a30e&style=plastic" alt="vijaykrishnasb" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=vijaykrishnasb&label=Profile%20views&color=b6a30e&style=plastic" alt="vijaykrishnasb" /> </p>
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=4dabf7&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+👋+I'm+vijay+;Full-StackWeb+Developer;" width="100%"> 
 </p> -->
