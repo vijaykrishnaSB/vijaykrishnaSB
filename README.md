@@ -35,7 +35,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykrishnasb&layout=compact&theme=vision-friendly-dark)
 
 
-<img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
+<!-- <img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" /> -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
