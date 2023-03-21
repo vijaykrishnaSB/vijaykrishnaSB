@@ -28,10 +28,9 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" padding-right="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="40"/>
  </p>
-<!--  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaykrishnasb&show_icons=true&theme=highcontrast" alt="vijaykrishnasb" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykrishnasb&show_icons=true&theme=highcontrast" alt="vijaykrishnasb" /></p> -->
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaykrishnasb&show_icons=true&theme=vision-friendly-dark" alt="vijaykrishnasb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykrishnasb&show_icons=true&theme=vision-friendly-dark" alt="vijaykrishnasb" /></p>
 <img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
