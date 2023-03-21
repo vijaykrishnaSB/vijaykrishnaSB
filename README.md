@@ -2,7 +2,7 @@
 <!-- ![logo](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966) -->
 <!-- ![logo](https://64.media.tumblr.com/1e1ca1e770436c9549752d1e438e1eee/daac88501a2bea41-c1/s1280x1920/1bf1b7c9c64c6179652d3571fbdfadef56ef597f.gif) -->
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="35px"> I'm vijay krishna</h1>
+<h1 align="center"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="35px"> I'm vijay krishna</h1>
 <!-- <p align="center"><a href="https://vijaykrishnasb.github.io"><img width="80%" alt="Hello, I'm vijaykrishna. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
 <h3 align="center">MERN Stack Developer.</h3>
 
